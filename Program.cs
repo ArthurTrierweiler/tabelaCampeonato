@@ -10,7 +10,7 @@ namespace tabelaCampeonato
             Tabela t = new Tabela();
 
             do {
-                System.Console.WriteLine("Menu:");
+                System.Console.WriteLine("Menu :");
                 System.Console.WriteLine("1 - Informe novo time e sua pontuação \n2 - Finaliza e exibe a tabela");
                 System.Console.WriteLine("Informe sua opção:");
                 a = Console.ReadKey();
